@@ -1,0 +1,450 @@
+{
+  "medicamentos": [
+    {
+      "nombre": "Ácido acetilsalicílico",
+      "descripcion": "Inhibe la síntesis de prostaglandinas y actúa sobre el centro termorregulador en el hipotálamo, tiene efecto antiagregante plaquetario por inhibición de la enzima tromboxano sintetasa.",
+      "id": 4
+    },
+    {
+      "nombre": "Metamizol sódico",
+      "descripcion": "Inhibe la síntesis de prostaglandinas y actúa sobre el centro termorregulador en el hipotálamo",
+      "id": 5
+    },
+    {
+      "nombre": "Paracetamol",
+      "descripcion": "Inhibe la síntesis de prostaglandinas y actúa sobre el centro termorregulador en el hipotálamo",
+      "id": 6
+    },
+    {
+      "nombre": "Diazepam",
+      "descripcion": "Benzodiazepina de duración prolongada que produce diversos grados de depresión, desde sedación hasta hipnosis.",
+      "id": 7
+    },
+    {
+      "nombre": "Isoflurano",
+      "descripcion": "Anestésico general que produce pérdida rápida de la conciencia, con ajuste de la profundidad anestésica suave y recuperación rápida.",
+      "id": 8
+    },
+    {
+      "nombre": "Midazolam",
+      "descripcion": "Antagonista competitivo de los analgésicos opioides. Carece de actividad farmacológica por si misma",
+      "id": 9
+    },
+    {
+      "nombre": "Metilsulfato de neostigmina",
+      "descripcion": "Inhibe la hidrólisis de la acetilcolina, al competir con ésta por la acetílcolinesterasa.",
+      "id": 10
+    },
+    {
+      "nombre": "acetaminofen",
+      "descripcion": "...",
+      "id": 11
+    }
+  ],
+  "especialidades": [
+    {
+      "nombre": "Anestesiología",
+      "descripcion": "La anestesiología es la especialidad médica dedicada a la atención y cuidados especiales de los pacientes durante las intervenciones quirúrgicas u otros procesos que puedan resultar molestos o dolorosos (endoscopia, radiología intervencionista, etc.).",
+      "id": 1
+    },
+    {
+      "nombre": "Hematología",
+      "descripcion": "La hematología («tratado, estudio, ciencia»)1​ es la especialidad médica (rama de la medicina interna) que se dedica al tratamiento de los pacientes con enfermedades de la sangre o hematológicas, su campo de actuación es el diagnóstico, tratamiento, estudio e investigación de la sangre ",
+      "id": 2
+    },
+    {
+      "nombre": "Infectología",
+      "descripcion": "La infectología es una especialidad médica que se encarga del estudio, la prevención, el diagnóstico y el tratamiento de las enfermedades producidas por agentes infecciosos (bacterias, virus, hongos, parásitos y priones), está muy relacionada con la medicina interna y la pediatría",
+      "id": 3
+    },
+    {
+      "nombre": "Toxicología",
+      "descripcion": "La toxicología es una ciencia que identifica, estudia y describe la dosis, la naturaleza, la incidencia, la severidad, la reversibilidad y, generalmente, los mecanismos de los efectos tóxicos que producen los xenobióticos que dañan el organismo",
+      "id": 4
+    },
+    {
+      "nombre": "Pediatría",
+      "descripcion": "La pediatría es la especialidad médica que estudia al niño y sus enfermedades. El término procede del griego paidos (niño) e iatrea (curación),1​ pero su contenido es mucho mayor que la curación de las enfermedades de los niños, ya que la pediatría estudia tanto al niño sano como al enfermo.",
+      "id": 5
+    },
+    {
+      "nombre": "Nutriología",
+      "descripcion": "La nutriología es la ciencia que estudia el proceso de alimentación y sus efectos en el metabolismo, en el estado de salud y en la composición corporal y su relación con los procesos químicos.",
+      "id": 6
+    },
+    {
+      "nombre": "Neumología",
+      "descripcion": "La neumología o neumonología es la especialidad médica encargada del estudio de las enfermedades del aparato respiratorio y centra su campo de actuación en el diagnóstico, tratamiento y prevención de las enfermedades del pulmón, la pleura y el mediastino.",
+      "id": 7
+    },
+    {
+      "nombre": "Psiquiatría",
+      "descripcion": "La psiquiatría o siquiatría1​ (del griego psiqué, alma, e iatréia, curación) es la especialidad médica dedicada al estudio de los trastornos mentales de origen genético o neurológico con el objetivo de prevenir, evaluar, diagnosticar, tratar y rehabilitar a las personas con trastornos mentales y asegurar la autonomía y la adaptación del individuo a las condiciones de su existencia",
+      "id": 8
+    }
+  ],
+  "pacientes": [
+    {
+      "nombre": "Mariana",
+      "apellidos": "Palacios Hinestroza",
+      "fecha_nac": "2001-07-06",
+      "edad": "19",
+      "sexo": "Femenino",
+      "ocupacion": "Estudiante universitario",
+      "estado_civil": "Soltero",
+      "correo": "mariana@gmail.com",
+      "telefono": "3647821499",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cra 20",
+      "perfil": "Paciente",
+      "id": "333"
+    },
+    {
+      "nombre": "Maria Alejandra",
+      "apellidos": "Franco Alzate",
+      "fecha_nac": "2000-08-10",
+      "edad": "20",
+      "sexo": "Femenino",
+      "ocupacion": "Estudiante",
+      "estado_civil": "Soltero",
+      "correo": "mafa@gmail.com",
+      "telefono": "3057854122",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cll 27a",
+      "perfil": "Paciente",
+      "id": "444"
+    },
+    {
+      "nombre": "Yesenia",
+      "apellidos": "López Giraldo",
+      "fecha_nac": "2001-09-07",
+      "edad": "20",
+      "sexo": "Femenino",
+      "ocupacion": "Estudiante",
+      "estado_civil": "Soltero",
+      "correo": "yesenia@gmail.com",
+      "telefono": "3456321788",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cll 34b",
+      "perfil": "Paciente",
+      "id": "555"
+    },
+    {
+      "nombre": "Santiago ",
+      "apellidos": "Cano Restrepo",
+      "fecha_nac": "2001-05-07",
+      "edad": "19",
+      "sexo": "Femenino",
+      "ocupacion": "Estudiante",
+      "estado_civil": "Soltero",
+      "correo": "santiago@gmail.com",
+      "telefono": "3064521988",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cll 37b",
+      "perfil": "Paciente",
+      "id": "666"
+    },
+    {
+      "nombre": "Angie",
+      "apellidos": "Rivera Hinestroza",
+      "fecha_nac": "2006-05-04",
+      "edad": "16",
+      "sexo": "Femenino",
+      "ocupacion": "Estudiante",
+      "estado_civil": "Soltero",
+      "correo": "angie@gmail.com",
+      "telefono": "3045631788",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cll 74a",
+      "perfil": "Paciente",
+      "id": "777"
+    },
+    {
+      "nombre": "Mateo",
+      "apellidos": "Mosquera Hinestroza",
+      "fecha_nac": "2000-01-08",
+      "edad": "20",
+      "sexo": "Masculino",
+      "ocupacion": "Estudiante",
+      "estado_civil": "Soltero",
+      "correo": "mateo@gmail.com",
+      "telefono": "3047852166",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cll 74a",
+      "perfil": "Paciente",
+      "id": "888"
+    },
+    {
+      "nombre": "Ana Mercy",
+      "apellidos": "Hinestroza Ramirez",
+      "fecha_nac": "1987-01-08",
+      "edad": "46",
+      "sexo": "Femenino",
+      "ocupacion": "Empleada",
+      "estado_civil": "Soltero",
+      "correo": "ana@gmail.com",
+      "telefono": "3047852166",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cll 74a",
+      "perfil": "Paciente",
+      "id": "999"
+    },
+    {
+      "nombre": "KKK",
+      "apellidos": "LLLL",
+      "id": "447",
+      "fecha_nac": "2021-04-05",
+      "edad": "58",
+      "sexo": "Masculino",
+      "ocupacion": "KK",
+      "estado_civil": "Divorciado",
+      "correo": "mm@homtail.cm",
+      "telefono": "55",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "ww",
+      "perfil": "Paciente"
+    }
+  ],
+  "medicos": [
+    {
+      "nombre": "Carlos",
+      "apellidos": "Cano Restrepo",
+      "fecha_nac": "1975-02-14",
+      "edad": "46",
+      "sexo": "Masculino",
+      "perfil": "Medico",
+      "especialidad": "Pediatría",
+      "estado_civil": "Casado",
+      "correo": "cano@gmail.com",
+      "telefono": "3014785644",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cra 27 ",
+      "id": "111"
+    },
+    {
+      "nombre": "David",
+      "apellidos": "Santa Restrepo",
+      "fecha_nac": "1975-02-14",
+      "edad": "37",
+      "sexo": "Masculino",
+      "perfil": "Medico",
+      "especialidad": "Pediatría",
+      "estado_civil": "Casado",
+      "correo": "david@gmail.com",
+      "telefono": "3014785644",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cra 27 ",
+      "id": "112"
+    },
+    {
+      "nombre": "Ariscenia",
+      "apellidos": "Mosquera Hinestroza",
+      "fecha_nac": "1975-02-14",
+      "edad": "40",
+      "sexo": "Femenino",
+      "perfil": "Medico",
+      "especialidad": "Pediatría",
+      "estado_civil": "Casado",
+      "correo": "aris@gmail.com",
+      "telefono": "3014785644",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cra 27 ",
+      "id": "113"
+    }
+  ],
+  "auxiliares": [
+    {
+      "nombre": "Martha",
+      "apellidos": "Mosquera Palacios",
+      "fecha_nac": "1965-09-04",
+      "edad": "56",
+      "sexo": "Femenino",
+      "perfil": "Auxiliar",
+      "especialidad": "Anestesiología",
+      "estado_civil": "Casado",
+      "correo": "martha111@gmail.com",
+      "telefono": "3047896322",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cll 25",
+      "id": "222"
+    },
+    {
+      "nombre": "Lourdes",
+      "apellidos": "Tello Palacios",
+      "fecha_nac": "1965-09-04",
+      "edad": "56",
+      "sexo": "Femenino",
+      "perfil": "Auxiliar",
+      "especialidad": "Anestesiología",
+      "estado_civil": "Soltero",
+      "correo": "lourdes@gmail.com",
+      "telefono": "3047896322",
+      "departamento": "Antioquia",
+      "ciudad": "Medellín",
+      "direccion": "cra 43mbbbbbb",
+      "id": "114"
+    }
+  ],
+  "examenes": [
+    {
+      "idpaciente": "333",
+      "idauxiliar": "222",
+      "arealab": "Químicas",
+      "nombre": "Hemograma completo",
+      "fecha": "12/3/2021",
+      "id": 1
+    },
+    {
+      "idpaciente": "333",
+      "idauxiliar": "222",
+      "arealab": "Orina y heces",
+      "nombre": "Urinálisis completo",
+      "fecha": "26/8/2020",
+      "id": 2
+    },
+    {
+      "idpaciente": "555",
+      "idauxiliar": "222",
+      "arealab": "Químicas",
+      "nombre": "Heces por parásito, sangre oculta",
+      "fecha": "4/04/2021",
+      "id": 6
+    },
+    {
+      "idpaciente": "444",
+      "idauxiliar": "222",
+      "arealab": "Orina y heces",
+      "nombre": "Perfil renal: Nitrógeno de urea, Creatinina, Ácido úrico, Proteína total, albúmina/globulina calcio, glucosa",
+      "fecha": "14/03/2021",
+      "id": 7
+    },
+    {
+      "idpaciente": "666",
+      "idauxiliar": "114",
+      "arealab": "Químicas",
+      "nombre": "Panel básico metabólico: Electrolitos, glucosa, nitrógeno de urea,creatinina",
+      "fecha": "14/03/2021",
+      "id": 7
+    },
+    {
+      "idpaciente": "666",
+      "idauxiliar": "114",
+      "arealab": "Químicas",
+      "nombre": "Perfil triode: TSH, T3, T4",
+      "fecha": "14/03/2021",
+      "id": 7
+    }
+  ],
+  "administrador": [
+    {
+      "id": 1,
+      "codigo": "CODEX_APOLO_SALUD222"
+    },
+    {
+      "id": 2,
+      "codigo": "CODEX_APOLO_SALUD111"
+    }
+  ],
+  "ciudades": [
+    {
+      "ciudad": "Medellín",
+      "id": 1
+    },
+    {
+      "ciudad": "Bogotá",
+      "id": 2
+    },
+    {
+      "ciudad": "Barranquilla",
+      "id": 3
+    },
+    {
+      "ciudad": "Cartagena",
+      "id": 4
+    }
+  ],
+  "Historias_clinicas": [
+    {
+      "fecha": "2021-04-12",
+      "especialidad": "Hematología",
+      "cedula_medico": "111",
+      "cedula_paciente": "333",
+      "peso": "56",
+      "estatura": "1.60",
+      "motivo_consulta": "Se le esta desangrando mucho la nariz",
+      "descripcion": "El paciente presenta hemorragia severa y no le cuagula la sangre que esta botando. Se le recomienda descansar en paz.",
+      "medicamento": "Midazolam",
+      "posologia": "2 veces cada 8 horas",
+      "remision": "No hasta parar sangrado",
+      "id": 1
+    },
+    {
+      "fecha": "2021-04-23",
+      "especialidad": "Pediatría",
+      "cedula_medico": "111",
+      "cedula_paciente": "333",
+      "peso": "56",
+      "estatura": "1.60",
+      "motivo_consulta": "El paciente presenta covid al ingresar al triage",
+      "descripcion": "Tiene vomito, dolor de cabeza y diarrea grave",
+      "medicamento": "Paracetamol",
+      "posologia": "Cada 12 horas",
+      "remision": "No necesita",
+      "id": 2
+    },
+    {
+      "fecha": "2021-01-03",
+      "especialidad": "Toxicología",
+      "cedula_medico": "111",
+      "cedula_paciente": "333",
+      "peso": "60",
+      "estatura": "1.55",
+      "motivo_consulta": "Dolor Abdominal, vómitos y nauseas. ",
+      "descripcion": "El paciente se encuentra en una situación de poco riesgo. Se le recomienda al paciente tener un chequeo el otro mes. Evitar el ejercicio durante el tiempo de recuperación.",
+      "medicamento": "Metilsulfato de neostigmina",
+      "posologia": "Cada dos horas 10 gotas",
+      "remision": "No requiere",
+      "id": 3
+    },
+    {
+      "fecha": "2021-11-30",
+      "especialidad": "Anestesiología",
+      "cedula_medico": "111",
+      "cedula_paciente": "444",
+      "peso": "67",
+      "estatura": "1.70",
+      "motivo_consulta": "Paralisis de sueño constantes, como efecto colateral de un proceso quirúrgico.",
+      "descripcion": "El paciente tiene profundos sueños que pueden durar hasta días, hasta que su cuerpo no recupere la habilidad para recuperar la motricidad, no logrará despertarse.",
+      "medicamento": "Paracetamol",
+      "posologia": "Una dosis antes de acostarse",
+      "remision": "No necesita",
+      "id": 4
+    },
+    {
+      "fecha": "2021-05-18",
+      "especialidad": "Nutriología",
+      "cedula_medico": "111",
+      "cedula_paciente": "333",
+      "peso": "80",
+      "estatura": "1.78",
+      "motivo_consulta": "jjj",
+      "descripcion": "jjj",
+      "medicamento": "acetaminofen",
+      "posologia": "j",
+      "remision": "hhh",
+      "id": 5
+    }
+  ]
+}
